@@ -1,0 +1,2 @@
+I am a file. 
+Reading file with java is fun.
